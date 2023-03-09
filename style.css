@@ -1,0 +1,24 @@
+@font-face {
+    font-family: arial;
+    src:url('Arial Rounded Bold.ttf')
+}
+
+body{
+    background-color: black;
+}
+div {
+    font-size: 5vw;
+    font-family: arial;
+    color: blanchedalmond;
+}
+
+span {
+    color: lightcoral;
+    
+}
+
+#img{
+    position: absolute;
+    bottom: 1%;
+    right: 1%;
+}
